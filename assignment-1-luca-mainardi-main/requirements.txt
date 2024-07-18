@@ -1,0 +1,10 @@
+setuptools
+pytest
+openml==0.14.2
+scikit-learn~=1.4
+tqdm
+jupyterlab
+matplotlib
+ipywidgets
+seaborn
+tensorflow
